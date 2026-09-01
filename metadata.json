@@ -1,0 +1,6 @@
+{
+  "name": "광석서부교회",
+  "description": "대한예수교장로회(합동) 광석서부교회 공식 홈페이지 - 예배안내, 오늘의 QT, 설교영상 아카이브, 교회소식, 갤러리 및 관리자 페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
